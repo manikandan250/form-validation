@@ -1,0 +1,24 @@
+form{
+	text-align:center;
+	border:1px solid black;
+	width:40%;
+	margin:auto;
+	padding:3rem;
+	background:linear-gradient( #ff99aa,  #ccffff);;
+	margin-top:2rem;
+}
+button{
+	margin-top:2rem;
+}
+body{
+	background:linear-gradient( #80ccff,  #ccffff);
+}
+input{
+	outline:none;
+	padding:0.6rem;
+	width:50%;
+}
+button{
+	margin-top:1.5rem;
+	padding:0.9rem;
+}
